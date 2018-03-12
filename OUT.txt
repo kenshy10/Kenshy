@@ -1,0 +1,41 @@
+OUT (CASOS DE SALIDA)
+
+1.L’ e-mail introduït és vàlid
+
+2.L’ e-mail introduït és vàlid
+
+3.L’ e-mail introduït és vàlid
+
+4.L’ e-mail introduït és vàlid
+
+5.L’ e-mail introduït és vàlid
+
+6.L’ e-mail introduït és vàlid
+
+7.L’ e-mail introduït és vàlid
+
+8.L’ e-mail introduït és vàlid
+
+9.L’ e-mail introduït és vàlid
+
+10.L’ e-mail introduït és vàlid
+
+11.L’ e-mail introduït és vàlid
+
+12.L’ e-mail introduït no és vàlid
+
+13.L’ e-mail introduït no és vàlid
+
+14.L’ e-mail introduït no és vàlid
+
+15.L’ e-mail introduït no és vàlid
+
+16.L’ e-mail introduït no és vàlid
+
+17.L’ e-mail introduït no és vàlid
+
+18.L’ e-mail introduït no és vàlid
+
+19.L’ e-mail introduït no és vàlid
+
+20.L’ e-mail introduït no és vàlid
